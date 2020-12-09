@@ -1,2 +1,4 @@
-# NYP-SIT-Year1-app_development_project
-NYP-SIT year 1 app development module
+# Eclectic
+NYP-SIT App development module
+
+Eclectic is a simple ecommerce web application
