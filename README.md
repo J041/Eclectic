@@ -1,6 +1,7 @@
 # Eclectic
 
-## NYP-SIT Year 1 Semester 2 Application Development Group Project
+## NYP-SIT  Application Development Group Project
+## Year 1 Semester 2
 
 ### Description
 
